@@ -1,11 +1,28 @@
 {
-      "name": "GeNeCoin",
-    "website": "https://genecoin.us/",
-    "description": "",
-    "explorer": "https://bscscan.com/token/0x7a44327560bdabebc32d83d7d99d2f7f05fd561b",
+    "name": "GeNeCoin",
     "type": "BEP20",
     "symbol": "GNC",
     "decimals": 18,
+    "website": "https://genecoin.us/",
+    "description": "GeNe Token іѕ a smart contract that еmроwеrѕ & еnhаnсеѕ thе рауmеnt ѕуѕtеmѕ based оn binance smart chain (BSC). Inсrеаѕе the еffісіеnсу, decrease thе соѕt оf money transfers аnd ѕеnd or rесеіvе сrоѕѕ-bоrdеr payments instantly.",
+    "explorer": "https://bscscan.com/token/0x7a44327560bdabebc32d83d7d99d2f7f05fd561b",
     "status": "active",
-    "id": "0x7a44327560bDAbEbc32d83D7D99d2f7f05fD561b"
-}
+    "id": "0x7a44327560bDAbEbc32d83D7D99d2f7f05fD561b",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/gene_coin"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/genecoin_news"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://drive.google.com/file/d/1Fjyz9DNL_KZjNRXwtG26LEVqSi_xwh-X/view"
+        }
+    ],
+    "tags": [
+        "defi"
+    ]
+} 
